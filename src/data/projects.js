@@ -5,7 +5,8 @@ export const projects = [
     description:
       'A multi-page responsive portfolio (Home, About, Skills, Projects, Contact) built with React Router. It uses reusable components with props, useState and useEffect, and draws lists from data with .map() and .filter(). It also has form validation, dark/light mode saved in the browser, a responsive hamburger menu and animated skill bars.',
     tech: ['React', 'React Router', 'JavaScript', 'CSS'],
-    github: 'https://github.com/njasper-git/jasper-portfolio',
+        github: 'https://github.com/njasper-git/jasper-portfolio',
+    live: 'https://jasper-portfolio-theta.vercel.app',
   },
   {
     id: 2,
