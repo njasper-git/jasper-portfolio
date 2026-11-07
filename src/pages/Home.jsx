@@ -21,14 +21,13 @@ function Home() {
       )}
 
       <h1>Jasper N</h1>
-      <h2>Aspiring Full Stack Web Developer</h2>
+      <h2>Full Stack Web Developer</h2>
       <p>
         I am an Electronics and Communication Engineering diploma student from
-        Coimbatore who builds responsive web applications with React,
-        JavaScript, HTML and CSS. I enjoy turning ideas into working products,
-        from the first line of code to a live deployment, and I am building a
-        strong foundation in Python with a long-term goal of working in AI
-        development.
+        Coimbatore who builds web applications, from the user interface to the
+        server behind it. I work with React, JavaScript, HTML and CSS, and I
+        enjoy turning ideas into working products, from the first line of code
+        to a live deployment.
       </p>
 
       <a href="/resume.pdf" download className="resume-btn">
